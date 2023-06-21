@@ -1,0 +1,16 @@
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\bin\Debug\netstandard2.0\zd6_oberuhtina.deps.json
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\bin\Debug\netstandard2.0\zd6_oberuhtina.dll
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\bin\Debug\netstandard2.0\ref\zd6_oberuhtina.dll
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\bin\Debug\netstandard2.0\zd6_oberuhtina.pdb
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.csproj.AssemblyReference.cache
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\Stylesheet1.css.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.AssemblyInfoInputs.cache
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.AssemblyInfo.cs
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.csproj.CoreCompileInputs.cache
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.dll
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\refint\zd6_oberuhtina.dll
+C:\Users\st312-06\Documents\oberuhtina\zd6_oberuhtina\zd6_oberuhtina\obj\Debug\netstandard2.0\zd6_oberuhtina.pdb

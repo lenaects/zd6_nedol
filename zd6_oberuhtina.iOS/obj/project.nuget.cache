@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xTzRuCsCqYzE4BX4D7WkmiL2mEk2dX4s9AccHDSqam15IcHez34y509U4xS5lfIiY/poKXTOgUe9IXymCsxsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\st312-06\\Documents\\oberuhtina\\zd6_oberuhtina\\zd6_oberuhtina.iOS\\zd6_oberuhtina.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st312-06\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\st312-06\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\st312-06\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
